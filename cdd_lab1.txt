@@ -10,4 +10,5 @@ git status
 
 git commit -m "your commit"
 
-git push -u
+git push --set-upstream origin master
+
