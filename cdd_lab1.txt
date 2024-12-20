@@ -1,0 +1,13 @@
+https://github.com/shahulshaik786/CDD_lab1.git
+
+git init
+ 
+git remote add origin "https://github.com/shahulshaik786/CDD_lab1.git"
+
+git add .
+
+git status
+
+git commit -m "your commit"
+
+git push -u
